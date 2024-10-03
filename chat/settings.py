@@ -91,7 +91,8 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     'restgpt-cfbbd06a935f.herokuapp.com',
-    '0.0.0.0:8000'
+    '0.0.0.0:8000',
+    'kuzet-51cbf6d22e1b.herokuapp.com'
 ]
 
 
